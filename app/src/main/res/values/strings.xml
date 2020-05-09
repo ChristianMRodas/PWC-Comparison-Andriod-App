@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">PWC Comparison Andriod App</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="selected_item"> Selected item:</string>
+
+    <string-array name="makes_array">
+        <item>Select a Personal Water Craft Make</item>
+        <item>SeaDoo</item>
+        <item>Kawasaki</item>
+        <item>Yamaha</item>
+    </string-array>
+
+    <string-array name="models_Seadoo_array">
+        <item>Select a Sea-Doo Model</item>
+        <item>Spark</item>
+        <item>Spark Trixx</item>
+        <item>GTI 90/130</item>
+        <item>GTI SE 130/170</item>
+        <item>GTX Limited 230/300</item>
+        <item>GTX 170/230</item>
+        <item>Wake Pro 230</item>
+        <item>Wake 170</item>
+        <item>GTR 230</item>
+        <item>RXP-X 300</item>
+        <item>RXT-X 300</item>
+        <item>Fish Pro</item>
+    </string-array>
+
+    <string-array name="models_Kawasaki_array">
+        <item>Select a Kawasaki Jetski</item>
+        <item>SX-R</item>
+        <item>STX 160</item>
+        <item>STX 160X</item>
+        <item>STX 160LX</item>
+        <item>STX -15F</item>
+        <item>Ultra LX</item>
+        <item>Ultra 310X</item>
+        <item>Ultra 310X SE</item>
+        <item>Ultra 310R</item>
+        <item>Ultra 310LX</item>
+    </string-array>
+
+    <string-array name="models_Yamaha_array">
+        <item>Select a Yamaha Waverunenr</item>
+        <item>EX</item>
+        <item>EX Sport</item>
+        <item>EX Deluxe</item>
+        <item>EXR</item>
+        <item>VX-C</item>
+        <item>VX</item>
+        <item>VX-Deluxe</item>
+        <item>VX-Cruiser</item>
+        <item>VX-Limited</item>
+        <item>VX-Cruiser HO</item>
+        <item>FX-HO</item>
+        <item>FX-Cruiser</item>
+        <item>FX-SVHO</item>
+        <item>FX-Cruiser SVHO</item>
+        <item>FX-Limited SVHO</item>
+        <item>GP 1800R HO</item>
+        <item>GP 1800R SVHO</item>
+    </string-array>
+
+</resources>
