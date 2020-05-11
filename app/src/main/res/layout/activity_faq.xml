@@ -16,20 +16,7 @@
     \nContact Us: someone@somewhere.com or give us a call at 000-111-9999\n
     \nReport a Bug: To report a bug, just include a screenshot of the error and shoot us an email. Thanks!\n
     \nFAQ: \nQ: How do I..?\nA: Just do this...\nQ: Where can I..?\nA: By going to...\n
-    \nReferences: https://developer.android.com/
-https://www.youtube.com/watch?v=FcPUFp8Qrps
-https://stackoverflow.com/questions/37093723/how-to-add-an-android-studio-project-to-github
-https://stackoverflow.com/questions/45108239/how-to-create-a-button-in-kotlin-that-opens-a-new-activity-android-studio
-https://devofandroid.blogspot.com/2018/03/add-back-button-to-action-bar-android.html
-https://www.youtube.com/watch?v=Y7JTkXoN8OE
-https://ux.stackexchange.com/questions/63618/how-to-display-a-long-list-of-faq-on-a-mobile-app
-https://blog.hubspot.com/service/faq-page
-https://www.youtube.com/watch?v=SDKwNh0TioE
-https://stackoverflow.com/questions/10464954/how-to-make-an-email-address-clickable
-https://loremipsum.io/
-https://developer.android.com/reference/kotlin/android/widget/TextView#attr_TextView
-https://android--examples.blogspot.com/2015/01/textview-new-line-multiline-in-android.html
-https://developer.android.com/reference/kotlin/android/widget/TextView
+    \nReferences: 
 "
     android:autoLink="email"
     app:layout_constraintEnd_toEndOf="parent"
