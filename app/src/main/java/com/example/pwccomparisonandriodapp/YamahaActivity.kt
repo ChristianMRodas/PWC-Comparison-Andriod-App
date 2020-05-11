@@ -20,7 +20,7 @@ class YamahaActivity : AppCompatActivity() {
 
         //Sets up the back button
         val navBackBtn = supportActionBar
-        navBackBtn!!.title = "FAQ Page"
+        navBackBtn!!.title = "Yamaha Models"
         //set back button
         navBackBtn.setDisplayHomeAsUpEnabled(true)
         navBackBtn.setDisplayHomeAsUpEnabled(true)
@@ -87,14 +87,7 @@ class YamahaActivity : AppCompatActivity() {
                 else
                     imgB_EX.visibility = View.INVISIBLE
 
-                if (selectedItem.equals("EX") == true) {
-                    Toast.makeText(this@YamahaActivity, "Selected: EX model", Toast.LENGTH_SHORT)
-                        .show()
 
-                    imgB_EX.visibility = View.VISIBLE
-                }
-                else
-                    imgB_EX.visibility = View.INVISIBLE
 
 
 

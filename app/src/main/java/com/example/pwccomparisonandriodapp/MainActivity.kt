@@ -21,6 +21,13 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+
+        faqbutton.setOnClickListener {
+            val intent = Intent(this, FAQActivity::class.java)
+
+            startActivity(intent)
+        }
+
         //This initializes the spinner function by pulling in from the "makes_array"
         val spinner: Spinner = findViewById(R.id.makes_spinner)
 

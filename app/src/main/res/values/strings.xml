@@ -49,20 +49,9 @@
         <item>EX</item>
         <item>EX Sport</item>
         <item>EX Deluxe</item>
-        <item>EXR</item>
-        <item>VX-C</item>
-        <item>VX</item>
-        <item>VX-Deluxe</item>
-        <item>VX-Cruiser</item>
-        <item>VX-Limited</item>
-        <item>VX-Cruiser HO</item>
-        <item>FX-HO</item>
-        <item>FX-Cruiser</item>
-        <item>FX-SVHO</item>
-        <item>FX-Cruiser SVHO</item>
-        <item>FX-Limited SVHO</item>
-        <item>GP 1800R HO</item>
-        <item>GP 1800R SVHO</item>
+
     </string-array>
+
+
 
 </resources>
