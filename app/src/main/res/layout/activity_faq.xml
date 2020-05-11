@@ -16,7 +16,7 @@
     \nContact Us: someone@somewhere.com or give us a call at 000-111-9999\n
     \nReport a Bug: To report a bug, just include a screenshot of the error and shoot us an email. Thanks!\n
     \nFAQ: \nQ: How do I..?\nA: Just do this...\nQ: Where can I..?\nA: By going to...\n
-    \nReferences: 
+    \nReferences:
 "
     android:autoLink="email"
     app:layout_constraintEnd_toEndOf="parent"
