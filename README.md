@@ -16,7 +16,7 @@ App Screenshots
 - Home Screen
 
 <img src="https://github.com/ChristianMRodas/PWC-Comparison-Andriod-App/blob/master/make%20confirm.png?raw=true" 
-     width="17500" 
+     width="175" 
      height="500" />
 
 
