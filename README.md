@@ -21,15 +21,25 @@ App Screenshots
 
 
 - Make Selection
-![alt text](https://github.com/ChristianMRodas/PWC-Comparison-Andriod-App/blob/master/model%202.png?raw=true)
+
+<img src="https://github.com/ChristianMRodas/PWC-Comparison-Andriod-App/blob/master/model%202.png?raw=true" 
+     width="225" 
+     height="500" />
 
 
 - Model Selection
-![alt text](https://github.com/ChristianMRodas/PWC-Comparison-Andriod-App/blob/master/model.png?raw=true)
+
+<img src="https://github.com/ChristianMRodas/PWC-Comparison-Andriod-App/blob/master/model.png?raw=true" 
+     width="225" 
+     height="500" />
 
 
 - Alternative Model Selection
-![alt text](https://github.com/ChristianMRodas/PWC-Comparison-Andriod-App/blob/master/model%20alt.png?raw=true)
+
+<img src="https://github.com/ChristianMRodas/PWC-Comparison-Andriod-App/blob/master/model%20alt.png?raw=true" 
+     width="225" 
+     height="500" />
+
 
 References:
 https://developer.android.com/
