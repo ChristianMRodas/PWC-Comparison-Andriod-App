@@ -15,9 +15,8 @@ App Screenshots
 
 - Home Screen
 <img src="https://github.com/ChristianMRodas/PWC-Comparison-Andriod-App/blob/master/make%20confirm.png?raw=true" 
-     width="400" 
+     width="300" 
      height="500" />
-![alt text](https://github.com/ChristianMRodas/PWC-Comparison-Andriod-App/blob/master/make%20confirm.png?raw=true)
 
 
 - Make Selection
