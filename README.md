@@ -9,7 +9,8 @@ For the future, I would like the ability of having the ability to select what mo
 App Screenshots
 
 - App Icon
-- https://github.com/ChristianMRodas/PWC-Comparison-Andriod-App/blob/master/App%20Icon.png?raw=true
+![alt text](https://github.com/ChristianMRodas/PWC-Comparison-Andriod-App/blob/master/App%20Icon.png?raw=true)
+- 
 
 
 - Home Screen
