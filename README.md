@@ -14,19 +14,19 @@ App Screenshots
 
 
 - Home Screen
-- https://github.com/ChristianMRodas/PWC-Comparison-Andriod-App/blob/master/make%20confirm.png?raw=true
+![alt text](https://github.com/ChristianMRodas/PWC-Comparison-Andriod-App/blob/master/make%20confirm.png?raw=true)
 
 
 - Make Selection
-- https://github.com/ChristianMRodas/PWC-Comparison-Andriod-App/blob/master/model%202.png?raw=true
+![alt text](https://github.com/ChristianMRodas/PWC-Comparison-Andriod-App/blob/master/model%202.png?raw=true)
 
 
 - Model Selection
-- https://github.com/ChristianMRodas/PWC-Comparison-Andriod-App/blob/master/model.png?raw=true
+![alt text](https://github.com/ChristianMRodas/PWC-Comparison-Andriod-App/blob/master/model.png?raw=true)
 
 
 - Alternative Model Selection
-- 
+![alt text](https://github.com/ChristianMRodas/PWC-Comparison-Andriod-App/blob/master/model%20alt.png?raw=true)
 
 References:
 https://developer.android.com/
