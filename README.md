@@ -6,6 +6,26 @@ Vision Statement
 The vision of this program is to provide a simple, yet comprehensive view of the various types of Jet Skis. Such as the different makes, models, and trims, along with some of their notable features such as seating capacity, technology, performance numbers, storage solutions, gas mileage, towing capacity, and weight. This will useful for users who are deciding which kind of Jet Ski would best meet their wants, all in one place. For the first immediate release, I’m expecting to add the main functionality of having the ability to use drop down menus showing all the makes. 
 For the future, I would like the ability of having the ability to select what model from another dropdown menu, and then another dropdown menu showing the trims available. After selecting those, the notable features will show up as an image. There will also be a brief FAQ and usability page that can be opened by tapping on a “?” button. I’d also like to add the ability of having 3 different comparisons at the same time by being able to switch between pages at the bottom of the app. Note that not all 3 will show up on the same screen, just the ability to switch screens.
 
+App Screenshots
+
+- App Icon
+- https://github.com/ChristianMRodas/PWC-Comparison-Andriod-App/blob/master/App%20Icon.png?raw=true
+
+
+- Home Screen
+- https://github.com/ChristianMRodas/PWC-Comparison-Andriod-App/blob/master/make%20confirm.png?raw=true
+
+
+- Make Selection
+- https://github.com/ChristianMRodas/PWC-Comparison-Andriod-App/blob/master/model%202.png?raw=true
+
+
+- Model Selection
+- https://github.com/ChristianMRodas/PWC-Comparison-Andriod-App/blob/master/model.png?raw=true
+
+
+- Alternative Model Selection
+- 
 
 References:
 https://developer.android.com/
